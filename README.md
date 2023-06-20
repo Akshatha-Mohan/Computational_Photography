@@ -1,7 +1,8 @@
 # Computational_Photography
 ## Artistic Photo Filter Removal Using CNNs
 
-Implementation of the paper "Artistic Photo Filter Removal Using CNNs"
+Implementation of the paper "Artistic Photo Filter Removal Using CNNs".
+
 A method has been developed for automatically restoring images that have been modified with
 photographic filters, such as those popular on photo sharing services. This method involves using
 a convolutional neural network to predict the coefficients of local polynomial transformations,
