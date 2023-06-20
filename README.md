@@ -9,3 +9,13 @@ which are then applied to the input image. Experimentation conducted on a subset
 Places-205 data set has shown that the quality of the image restoration produced by this method
 is significantly better than that of traditional color balancing and restoration techniques, as well
 as recent CNN architectures used for image to image translation.
+
+## Input Images
+<p align="center">
+  <img src="Code/Results/11_input.png" alt="Fig1_Workflow" width="500">
+</p>
+
+## Output Images
+<p align="center">
+  <img src="Code/Results/11_output.png" alt="Fig1_Workflow" width="500">
+</p>
